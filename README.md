@@ -15,4 +15,5 @@ score in kaggle : 0.94285
 - lecture : https://www.youtube.com/watch?v=VUBf5tnShIc
 
 credit : shopee code league
+
 ps, not the cleanest requirements.txt
